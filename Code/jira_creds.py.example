@@ -1,0 +1,3 @@
+user = '' #jira username with api access
+password = '' #that user's password
+server = '' #jira instance url
